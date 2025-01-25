@@ -39,7 +39,17 @@ _Optional... This is a more challenging round to do but demonstrates another com
 * Someone shares an idea. The next person says, "Yes, and..." and builds off of that idea without modifying or negating the original idea.  
 * And so on. 
 
-
+**Reflection:**  
+_Why did we do this ridiculous thing?_
+* team building 
+* collaboration
+* active listening 
+* group trust
+* loosening rigidity around ideas
+* quick brainstorms
+* getting stuff out, not waiting for perfection
+* reflects an iterative design process, something that is not fixed in place but grows and evolves, iterative activity, continue to work on it
+* "yes and" activities-- everything valid and considered before cutting / limiting / censoring / dismissing
 
 
 ## Sample Design Problems:
